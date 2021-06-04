@@ -10,7 +10,7 @@ blocks:
       jobs:
         - name: 'Job #1'
           commands:
-            - sudo npm install --global lerna
+            - npm install --global lerna
             - checkout
             - lerna publish patch --yes
       secrets:
