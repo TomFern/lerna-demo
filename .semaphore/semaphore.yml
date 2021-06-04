@@ -12,6 +12,7 @@ blocks:
           commands:
             - npm install --global lerna
             - checkout
-            - lerna publish patch --yes
+            - lerna version patch --yes
+            - lerna publish from-git --yes
       secrets:
         - name: NPM
