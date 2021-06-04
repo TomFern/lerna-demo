@@ -1,5 +1,5 @@
 {
-  "name": "@tomfern/hello-world",
+  "name": "tomfern-hello-world",
   "version": "1.0.4",
   "description": "hello world",
   "author": "tomas f <46322567+TomFern@users.noreply.github.com>",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/TomFern/lerna-demo/issues"
   },
-  "gitHead": "9916367881aabd6c8ba60a59102c1ee43e99297f"
+  "gitHead": "19cdd405c82cc465e0179002c1545e75a192bb2f"
 }
