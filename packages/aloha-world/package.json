@@ -1,0 +1,30 @@
+{
+  "name": "aloha-world",
+  "version": "1.0.0",
+  "description": "aloha world",
+  "author": "tomas f <46322567+TomFern@users.noreply.github.com>",
+  "homepage": "https://github.com/TomFern/lerna-demo#readme",
+  "license": "ISC",
+  "main": "lib/aloha-world.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+ "repository": {
+   "type": "git",
+   "url": "git@github.com:TomFern/lerna-demo.git"
+ },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomFern/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/TomFern/lerna-demo/issues"
+  }
+}
