@@ -12,6 +12,6 @@ blocks:
           commands:
             - npm install --global lerna
             - checkout
-            - lerna publish patch --yes --no-git-tag-version --no-push
+            - lerna publish patch --yes --no-git-tag-version --no-push --no-verify-access
       secrets:
         - name: NPM
